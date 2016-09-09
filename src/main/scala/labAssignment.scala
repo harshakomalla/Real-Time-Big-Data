@@ -22,3 +22,4 @@ object LabAssign {
     val value = davidRows.count
 
     println( " The number of rows with David value are " + value)
+    
